@@ -1,0 +1,8 @@
+{
+  "name": "noob.js",
+  "version": "1.0.0",
+  "main": "noob.js",
+  "scripts": {
+    "start": "node noob.js"
+  }
+} 
